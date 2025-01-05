@@ -22,4 +22,4 @@ LED1-blue
 След като е завършена снежинката тябва да изглежда по този начин. Ако не тъгне или не светят някои светодиоди извадете батериятя, проверете спойките и помолете възрастен за помощ.![snowflake](https://github.com/user-attachments/assets/8ed25a08-ef95-455b-b401-9827a2174335)
 
 Това е електронната схема на снежинката:
-![snowflake_schema](https://github.com/user-attachments/assets/48d595bd-e362-4588-b655-5e5f85005ae9)
+![ACE Scanner_2025_01_05-01](https://github.com/user-attachments/assets/a691d751-df63-40e2-9431-95ea3eacd7c8)
